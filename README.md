@@ -1,4 +1,4 @@
-# README
+# Emre BAŞOĞLU
 # 💫 About Me:
 👋 Hello! I am Emre Başoğlu, a Jr. Data Scientist with an interest in data science and analytics. I am currently working as an intern at MAVE DIGITAL and continue to improve myself in the data world.<br><br>🧠 I have knowledge in data science, statistics and machine learning and have gained experience in projects in these areas. I am skilled in data manipulation, analysis and modelling using programming languages such as Python, R and SQL.<br><br>🚀 I also have a good command of prominent technologies and tools such as Python. Making data-driven decisions, taking an analytical approach to problems and exploring data sets is my passion.<br><br>💡 I believe in continuous learning and development. In this GitHub profile, I aim to share my knowledge and experience with others by sharing my data science related projects. Don't forget to follow me, I will be happy to share with you about new projects and updates!<br><br>📫 I am always open to communicate, collaborate or ask your questions. You can reach me via my mail or social media. I believe in what we can achieve together in the data world!<br>
 
